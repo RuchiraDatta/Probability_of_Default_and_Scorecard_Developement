@@ -1,4 +1,4 @@
-# Probability of Default (PD) Scorecard Development using WOE and Logistic Regression
+# Probability of Default (PD) and Scorecard Development using WOE and Logistic Regression
 
 ## Overview
 
